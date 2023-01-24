@@ -31,6 +31,7 @@ public class App
 //        System.out.println(laptopService.findAll());
 //        System.out.println(laptopService.update(52L, new Laptop("Asus", OperationSystem.WINDOWS, 232, 30000, LocalDate.of(2023, 03, 04))));
         System.out.println(laptopService.groupBy());
+
     }
 
 }
